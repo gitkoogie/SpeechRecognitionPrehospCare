@@ -1,0 +1,27 @@
+Steps to make it work.
+
+
+On an UBUNTU system:
+
+run in terminal:
+
+SPEECH RECOGNITION
+
+pip install speech_recognition
+(or if python3)
+pip3 install speech_recognition
+
+Open a file and create a script to find version
+
+import speech_recognition as sr
+print(sr.__version__)
+
+FOR MICROPHONE:
+
+sudo apt-get install python-pyaudio
+
+(or if python3)
+sudo apt-get install python3-pyaudio
+
+(may also need)
+pip install pyaudio

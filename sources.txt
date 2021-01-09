@@ -1,0 +1,3 @@
+guide: https://realpython.com/python-speech-recognition/
+audiofiles: https://github.com/realpython/python-speech-recognition
+sphinx: https://github.com/cmusphinx/pocketsphinx
