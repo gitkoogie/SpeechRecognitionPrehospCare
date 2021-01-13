@@ -1,3 +1,15 @@
 guide: https://realpython.com/python-speech-recognition/
 audiofiles: https://github.com/realpython/python-speech-recognition
-sphinx: https://github.com/cmusphinx/pocketsphinx
+
+SpeechRecognition pypi
+https://pypi.org/project/SpeechRecognition/
+
+Pocketpshinx
+https://pypi.org/project/pocketsphinx/
+
+Guides:
+Pocketsphinx guide: https://github.com/Uberi/speech_recognition/blob/master/reference/pocketsphinx.rst#building-pocketsphinx-python-from-source
+
+(these might work also if necessary)
+CMUsphinx install (for offline usage): http://jrmeyer.github.io/asr/2016/01/09/Installing-CMU-Sphinx-on-Ubuntu.html
+(if necessary) pocketsphinx: https://github.com/cmusphinx/pocketsphinx
