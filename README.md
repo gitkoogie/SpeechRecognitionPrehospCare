@@ -38,4 +38,4 @@ pip3 install --upgrade pocketsphinx
 
 **You should now be able to run recognize_sphinx in the SpeechRecognition library. You might need to setup your input device accordingly if your program fails to recognize sound**
 
-*For further guides see guides.txt*
+*For further guides see sources.txt*
