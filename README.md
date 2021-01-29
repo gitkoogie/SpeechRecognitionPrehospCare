@@ -2,7 +2,15 @@
 
 ## Installation guide (Getting started)
 
+IF you want Ubuntu as main Operating system
 *Install Ubuntu 64 but NORMAL installation (includes python3)*
+ELSE IF you want ubuntu on a virtual machine
+*Install Virtualbox and Ubuntu on the virtual machine*
+ELSE IF you use macbook 
+*you can install python3 and (probably) follow the guide below*
+ELSE
+*you use windows and in which you will need to install a terminal etc*
+
 
 ### Install pip
 sudo apt install python3-pip
